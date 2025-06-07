@@ -1,0 +1,1 @@
+const numero = Number(prompt("Digite um número"))
